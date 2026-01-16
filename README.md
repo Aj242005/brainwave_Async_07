@@ -1,1 +1,50 @@
-Compass is an AI-powered travel curation platform that converts saved social media travel screenshots into complete, real-world itineraries created through multiple agents powered by OnDemand.Travelers often suffer from discovery paralysis, lost context, hidden costs, overhyped locations, poor timing, and mismatched plans for companions. Compass solves this by using a multi-agent AI system that understands screenshots visually and contextually—extracting locations, vibes, hashtags, and intent while validating each place with real-time social proof from reviews and recent activity. The platform matches experiences to user preferences, travel companions, budget, and trip style, while intelligently scheduling visits based on crowd patterns, golden hours, and seasonality. It provides transparent cost breakdowns, suggests budget-optimized alternatives, and creates smart routes to avoid backtracking. Compass bridges the gap between inspiration and execution, turning scattered reels and posts into validated, time-aware, and budget-conscious travel plans. In minutes, users move from saved screenshots to a shareable, actionable itinerary—making travel planning effortless, reliable, and personalized.
+🧭 Compass — From Inspiration to Itinerary
+
+Compass is an AI-powered travel curation platform that transforms saved social media travel screenshots into complete, real-world itineraries using a multi-agent AI system powered by OnDemand.
+
+🚨 The Problem
+
+Modern travelers face:
+
+Discovery Paralysis from endless saved reels
+
+Lost Context behind viral posts
+
+Hidden Costs and budget uncertainty
+
+Overhyped or outdated locations
+
+Poor timing (crowds, closures, wrong hours)
+
+Mismatch with travel companions
+
+💡 The Solution
+
+Compass bridges the gap between inspiration and execution.
+
+🤖 How Compass Works
+
+📸 Visual & Contextual AI
+Understands screenshots—extracting locations, vibes, hashtags, and intent
+
+🔍 Real-Time Validation
+Cross-checks places using reviews, activity trends, and social proof
+
+🎯 Personalized Matching
+Aligns experiences with user preferences, companions, budget, and trip style
+
+⏰ Smart Scheduling
+Plans visits using crowd patterns, golden hours, and seasonality
+
+💰 Transparent Budgeting
+Clear cost breakdowns with budget-optimized alternatives
+
+🗺️ Optimized Routing
+Creates efficient routes to avoid backtracking
+
+✨ The Outcome
+
+In minutes, Compass converts scattered reels and screenshots into a validated, time-aware, budget-conscious, and shareable itinerary.
+
+Effortless. Reliable. Personalized.
+Compass makes travel planning finally work the way inspiration does.
